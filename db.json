@@ -1,0 +1,99 @@
+{
+  "Products": [
+    {
+      "name": "Tromborg",
+      "img": "https://ibb.co/WBKj8Ym",
+      "price": 19,
+      "offer": "",
+      "rating": 3,
+      "id": 1
+    },
+    {
+      "name": "The Natural Skin Care Our Founder Loves",
+      "img": "https://ibb.co/bXp1DqH",
+      "price": 30,
+      "offer": "40%",
+      "rating": 4,
+
+      "id": 2
+    },
+    {
+      "name": "Boutijour",
+      "img": "https://ibb.co/Lh4vWn2",
+      "price": 25,
+      "offer": "10%",
+      "rating": 2,
+      "id": 3
+    },
+    {
+      "name": "Dr.Zonskin",
+      "img": "https://ibb.co/NpJ4LZz",
+
+      "price": 23,
+      "rating": 4,
+      "offer": "",
+      "id": 5
+    },
+    {
+      "name": "Lash y Brow-nie",
+      "img": "https://ibb.co/z5ktkbx",
+      "price": 25,
+      "rating": 1,
+      "offer": "25%",
+      "id": 6
+    },
+    {
+      "name": "Honey Waffles",
+      "img": "https://i.ibb.co/wr0jBs7/5.jpg",
+      "caption": "waffles are amazing",
+      "price": 30,
+      "rating": 1,
+      "offer": "",
+      "id": 7
+    },
+    {
+      "name": "Mist N-2",
+      "img": "https://ibb.co/64NQ7Pz",
+      "price": 40,
+      "offer": "",
+      "rating": 5,
+      "id": 4
+    },
+    {
+      "name": "COSMETICS Averac",
+      "img": "https://ibb.co/cQRXGJd",
+      "price": 25,
+      "offer": "",
+      "rating": 0,
+      "id": 8
+    },
+    {
+      "name": "Glow Serum",
+      "img": "https://ibb.co/L0CyTYG",
+
+      "price": 18,
+      "offer": "-25%",
+      "rating": 3,
+      "id": 9
+    },
+    {
+      "name": "Cream Lasur",
+      "img": "https://ibb.co/h2szgDS",
+
+      "price": 22,
+      "rating": 4,
+      "offer": "",
+      "id": 10
+    },
+    {
+      "name": " Serum G-2",
+      "img": "https://ibb.co/WgD4WbY",
+
+      "price": 28,
+      "offer": "%",
+      "rating": 3,
+      "id": 11
+    }
+  ],
+  "Users": []
+}
