@@ -2,16 +2,18 @@
   "Products": [
     {
       "name": "Tromborg",
-      "img": "https://ibb.co/WBKj8Ym",
+      "img": "https://i.ibb.co/GCPNYbz/product11.jpg",
       "price": 19,
+      "oldPrice": "",
       "offer": "",
       "rating": 3,
       "id": 1
     },
     {
       "name": "The Natural Skin Care Our Founder Loves",
-      "img": "https://ibb.co/bXp1DqH",
+      "img": "https://i.ibb.co/9WRnSzw/product10.jpg",
       "price": 30,
+      "oldPrice": "80",
       "offer": "40%",
       "rating": 4,
 
@@ -19,7 +21,8 @@
     },
     {
       "name": "Boutijour",
-      "img": "https://ibb.co/Lh4vWn2",
+      "img": "https://i.ibb.co/S7qJ8R9/product6.jpg",
+      "oldPrice": "40",
       "price": 25,
       "offer": "10%",
       "rating": 2,
@@ -27,8 +30,8 @@
     },
     {
       "name": "Dr.Zonskin",
-      "img": "https://ibb.co/NpJ4LZz",
-
+      "img": "https://i.ibb.co/jGQpLgF/product2.jpg",
+      "oldPrice": "",
       "price": 23,
       "rating": 4,
       "offer": "",
@@ -36,61 +39,68 @@
     },
     {
       "name": "Lash y Brow-nie",
-      "img": "https://ibb.co/z5ktkbx",
+      "img": "https://i.ibb.co/3sJPJWd/product9.jpg",
       "price": 25,
       "rating": 1,
+      "oldPrice": "35",
       "offer": "25%",
       "id": 6
     },
     {
-      "name": "Honey Waffles",
-      "img": "https://i.ibb.co/wr0jBs7/5.jpg",
-      "caption": "waffles are amazing",
+      "name": "Hair Leave In",
+      "img": "https://i.ibb.co/B47Y286/product1.jpg",
+
       "price": 30,
       "rating": 1,
+      "oldPrice": "",
       "offer": "",
       "id": 7
     },
     {
       "name": "Mist N-2",
-      "img": "https://ibb.co/64NQ7Pz",
+      "img": "https://i.ibb.co/7GbhdWP/product5.jpg",
       "price": 40,
+      "oldPrice": "",
       "offer": "",
       "rating": 5,
       "id": 4
     },
     {
       "name": "COSMETICS Averac",
-      "img": "https://ibb.co/cQRXGJd",
+      "img": "https://i.ibb.co/KWBzM6H/product4.jpg",
       "price": 25,
+      "oldPrice": "",
       "offer": "",
       "rating": 0,
       "id": 8
     },
     {
       "name": "Glow Serum",
-      "img": "https://ibb.co/L0CyTYG",
+      "img": "https://i.ibb.co/yN8Czd3/product8.jpg",
 
       "price": 18,
-      "offer": "-25%",
+      "oldPrice": "30",
+      "offer": "25%",
       "rating": 3,
       "id": 9
     },
     {
       "name": "Cream Lasur",
-      "img": "https://ibb.co/h2szgDS",
+      "img": "https://i.ibb.co/xzhT2JN/product7.jpg",
 
       "price": 22,
       "rating": 4,
+      "oldPrice": "",
       "offer": "",
       "id": 10
     },
     {
       "name": " Serum G-2",
-      "img": "https://ibb.co/WgD4WbY",
+      "img": "https://i.ibb.co/6gv7R3f/product3.jpg",
 
       "price": 28,
-      "offer": "%",
+      "oldPrice": "56",
+      "offer": "50%",
       "rating": 3,
       "id": 11
     }
